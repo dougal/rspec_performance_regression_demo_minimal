@@ -22,6 +22,6 @@ Running Specs
 Switching Rspec-Rails version
 -----------------------------
 
-# Comment out the rspec-rails 3.4.0 line in the Gemfile.
-# Uncomment the rspec-rails 3.4.1 line in the Gemfile.
-# Run `bundle install`.
+1. Comment out the rspec-rails 3.4.0 line in the Gemfile.
+2. Uncomment the rspec-rails 3.4.1 line in the Gemfile.
+3. Run `bundle install`.
