@@ -1,0 +1,2 @@
+module BadgersHelper
+end
